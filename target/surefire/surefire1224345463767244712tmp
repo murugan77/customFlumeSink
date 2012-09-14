@@ -1,0 +1,5 @@
+#surefire
+#Mon Sep 10 22:12:57 KST 2012
+user.dir=/Users/Ryun/Downloads/customSink
+localRepository=/Users/Ryun/.m2/repository
+basedir=/Users/Ryun/Downloads/customSink
